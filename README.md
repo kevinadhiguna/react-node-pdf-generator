@@ -2,6 +2,10 @@
 
 A PDF generator created using ReactJS and NodeJS. 
 
+## Demo
+This is how this app and the generated PDF file looks :
+<img src="https://raw.githubusercontent.com/kevinadhiguna/react-node-pdf-generator/master/demo/1.png" width="90%"></img>
+
 ## How to Run :
 1) Install dependencies both in client directory :
 ```
