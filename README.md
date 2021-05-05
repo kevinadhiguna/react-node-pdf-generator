@@ -32,3 +32,5 @@ cd client && npm start
 cd client && yarn start
 ```
 5) The app will be running on `localhost:3000` (client) and `localhost:5000` (server)!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/react-node-pdf-generator)](https://github.com/kevinadhiguna)
