@@ -33,4 +33,8 @@ cd client && yarn start
 ```
 5) The app will be running on `localhost:3000` (client) and `localhost:5000` (server)!
 
+## Reference
+
+- [How to Create PDFs With Node JS and React by JavaScript Mastery](https://youtu.be/bt1tOhUYxvM)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/react-node-pdf-generator)](https://github.com/kevinadhiguna)
